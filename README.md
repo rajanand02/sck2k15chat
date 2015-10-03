@@ -16,4 +16,4 @@ Chat app created at FSFTN Summer Camp 2k15
 
 #### Presentation
 
-[rajanand02.github.io/introduction-to-nodejs-mongo-meteor/](rajanand02.github.io/introduction-to-nodejs-mongo-meteor/)
+[http://hacktivist.in/introduction-to-nodejs-mongodb-meteor/#/](http://hacktivist.in/introduction-to-nodejs-mongodb-meteor/#/)
